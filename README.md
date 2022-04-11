@@ -25,7 +25,6 @@ I currently work at the [Adventist Hospital of Manaus](http://ham.org.br/) as a 
 - Hadoop, Spark, Yarn and MapReduce.
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mois%C3%A9s-felipe-santos-417402163)
 
 
