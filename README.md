@@ -8,7 +8,9 @@ I'm a student and researcher of Data Science and Machine Learning also work with
 
 🧑‍💼
 I worked at the [Adventist Hospital of Manaus](http://ham.org.br/) as a Systems Development Analyst.
-I currently work at the [Creathus Instituto de Tecnologia da Amazônia](https://www.creathus.org.br/) as a Systems Development Analyst.
+
+🧑‍💼
+I currently work at the [Creathus Instituto de Tecnologia da Amazônia](https://www.creathus.org.br/) as a Software Developer PL II.
 
 
 ### 🧑‍🎓 Education 
